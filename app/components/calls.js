@@ -24,7 +24,7 @@ import renderImages from '../fake/fakeImage';
 const images = R.range(1, 11).map(i => i);
 const data = [{
   "id": 1,
-  "first_name": "Bruce",
+  "first_name": "Brucess",
   "incomming": true,
   "date": "25-Feb-2016",
   "time": "5:46 PM",
